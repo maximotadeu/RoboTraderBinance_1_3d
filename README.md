@@ -1,7 +1,9 @@
 # PARA DÚVIDAS E SUGESTÕES - tadeulmdsantos@gmail.com
 
 # Para rodar o projeto instale >
+
 Link para baixar o Python Anaconda: https://www.anaconda.com/download
+
 Link para baixar o Visual Studio Code:​ https://code.visualstudio.com/
 
 
