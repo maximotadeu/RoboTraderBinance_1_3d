@@ -1,5 +1,10 @@
 # PARA DÚVIDAS E SUGESTÕES - tadeulmdsantos@gmail.com
 
+# Para rodar o projeto instale >
+Link para baixar o Python Anaconda: https://www.anaconda.com/download
+Link para baixar o Visual Studio Code:​ https://code.visualstudio.com/
+
+
 # 1. Instale as seguintes bibliotecas:
 
     Digite no terminal (abra o terminal com ctrl+J):
