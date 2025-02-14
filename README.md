@@ -1,8 +1,4 @@
-# PARA DÚVIDAS E SUGESTÕES, PARTICIPE DO NOSSO DISCORD
-
-    https://discord.gg/PpmB3DwSSX
-
-    Inscreva-se no meu canal no YouTube https://www.youtube.com/@DescolaDev
+# PARA DÚVIDAS E SUGESTÕES - tadeulmdsantos@gmail.com
 
 # 1. Instale as seguintes bibliotecas:
 
